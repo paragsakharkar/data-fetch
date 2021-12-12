@@ -1,0 +1,27 @@
+h1{
+    text-align: center;
+    color: rgb(233, 27, 27);
+}
+ 
+ #table{
+   font-family: Arial, Helvetica, sans-serif;
+    border-collapse: collapse;
+   
+    
+  }
+  #table th, #table td{
+    border: 2px solid rgb(0, 0, 0);
+    padding: 20px;
+    padding-left: 70px;
+    padding-right: 70px;
+    text-align: center;
+    color: rgb(241, 241, 241);
+  }
+
+  #table td{
+    text-align: center;
+  }
+
+  body{
+      background-color: rgb(80, 87, 52);
+  }
